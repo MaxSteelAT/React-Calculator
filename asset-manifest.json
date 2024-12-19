@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MaxSteelAT/React-Calculator/static/css/main.0e0efdd3.css",
+    "main.js": "/MaxSteelAT/React-Calculator/static/js/main.fe51e8f6.js",
+    "static/js/453.ed3810f9.chunk.js": "/MaxSteelAT/React-Calculator/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/MaxSteelAT/React-Calculator/index.html",
+    "main.0e0efdd3.css.map": "/MaxSteelAT/React-Calculator/static/css/main.0e0efdd3.css.map",
+    "main.fe51e8f6.js.map": "/MaxSteelAT/React-Calculator/static/js/main.fe51e8f6.js.map",
+    "453.ed3810f9.chunk.js.map": "/MaxSteelAT/React-Calculator/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e0efdd3.css",
+    "static/js/main.fe51e8f6.js"
+  ]
+}
